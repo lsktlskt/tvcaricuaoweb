@@ -1,0 +1,18 @@
+@font-face{
+	font-family: sourcesans;
+	src:url(../fuentes/SourceSansPro.otf);
+}
+@font-face{
+	font-family: sourcesans-Light;
+	src:url(../fuentes/SourceSansPro-Light.otf);
+}
+@font-face{
+	font-family: sourcesans;
+	src:url(../fuentes/SourceSansPro-Regular.otf);
+}
+
+@font-face{
+	font-family: 'Oswald';
+	src: url('fuentes/Oswald-Medium'),
+	src:url(../fuentes/Oswald-Medium.ttf);
+}
