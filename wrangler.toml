@@ -1,0 +1,5 @@
+name = "tvcaricuaosite"
+main = "src/index.js" # o src/index.ts
+compatibility_date = "2024-01-01"
+account_id = "Tvcaricuao@gmail.com" # Reemplaza con tu ID de cuenta de Cloudflare
+workers_dev = true
